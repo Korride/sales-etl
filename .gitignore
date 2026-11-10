@@ -1,0 +1,17 @@
+# Виртуальное окружение
+.venv/
+.env
+
+# Кэш Python
+__pycache__/
+*.py[cod]
+
+# IDE
+.idea/
+.vscode/
+
+# Сгенерированные данные и артефакты
+data/raw/
+data/processed/
+db/
+*.db
